@@ -1,5 +1,3 @@
-task2.(ii):
-
 import math
 
 def get_user_input(message):
